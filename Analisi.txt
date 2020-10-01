@@ -1,0 +1,8 @@
+Orario docenti
+1) Grado di parallelismo=  Main + 1 Thread
+2)
+- il Main chiede all'utente di quale classe vuole sapere l'orario
+- Il Thread ThCerca si occupa di trovare ora e giorno metterle in un vettore e poi farle visualizzare
+3) I DatiCondivisi contengono il vettore orario, La Lista degli orari separati, il numero di oreTrovate per la classe che stiamo cercando e la classe
+4) Non è presente la mutua esclusione in questo programma
+5)
